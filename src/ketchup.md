@@ -1,5 +1,9 @@
 # Kethcup
 
+- ⏲️ Prep time: 30 min
+- 🍳Cook time: ≈ N/A
+- 🍽️ Servings: 2 Pints
+
 - Kethcup/Catsup
 
 ## Ingredients
